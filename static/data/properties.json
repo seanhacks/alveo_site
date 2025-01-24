@@ -1,0 +1,1254 @@
+[
+  {
+    "href": "properties/verdea_southmount",
+    "name": "VERDEA SOUTHMOUNT",
+    "location": "CAVITE",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/verdea/artist_perspective/artist_1.jpg",
+    "propertyType": "Residential Lots",
+    "price": "₱13.3M to ₱19.4M",
+    "endpoint": "/",
+    "blurb": "Verdea captures an intimate community embraced by green, highlighting the warmth and dynamism of verdant spaces. Spanning close to 25 hectares within an emerging Ayala Land estate, it’s the quintessential suburban living experience in the South.",
+    "hero": "/images/properties/verdea/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/verdea/artist_perspective/artist_1.jpg", 
+        "alt": "VERDEA SOUTHMOUNT - Clubhouse Drop-off (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/verdea/artist_perspective/artist_2.jpg", 
+        "alt": "VERDEA SOUTHMOUNT - Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "nearby": [
+      "Nuvali (5.3 km)",
+      "Alabang (35.0 km)",
+      "Makati (51.3 km)",
+      "The Fields NUVALI (5.5 km)",
+      "Seda Hotel NUVALI (5.6 km)",
+      "Camp N (12.5 km)",
+      "Chiang Kai Shek College - South Forbes (1.2 km)",
+      "Everest Academy Laguna (7.7 km)",
+      "Ateneo Graduate School of Business (7.8 km)",
+      "Qualimed Hospital Sta. Rosa (5.2 km)",
+      "The Medical City - South Luzon (8.0 km)"
+    ],
+    "amenities": [
+      "Boardroom",
+      "Function Room",
+      "Basketball court",
+      "Clubhouse",
+      "Jogging path",
+      "Kid's Play Area",
+      "Linear Park",
+      "Main Park",
+      "Pocket Parks",
+      "Swimming Pool",
+      "Clubhouse",
+      "Kid's Play Area",
+      "Lap Pool",
+      "Pocket Parks"
+    ]
+  },
+  {
+    "href": "properties/south_palmgrove",
+    "name": "SOUTH PALMGROVE",
+    "location": "BATANGAS",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/south_palmgrove/artist_perspective/artist_1.jpg",
+    "propertyType": "Residential Lots",
+    "price": "₱7.1M to ₱17.9M",
+    "endpoint": "/",
+    "blurb": "South Palmgrove is Alveo Land’s first residential address in Lipa, Batangas, where landscapes of symmetry and balance surround. Embrace the calming comfort of a secure residential community, as you appreciate the simple quiet moments to nurture precious time with friends and family.",
+    "hero": "/images/properties/south_palmgrove/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/south_palmgrove/artist_perspective/artist_1.jpg", 
+        "alt": "SOUTH PALMGROVE - Site Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/south_palmgrove/artist_perspective/artist_2.jpg", 
+        "alt": "SOUTH PALMGROVE - Guardhouse (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/south_palmgrove/artist_perspective/artist_3.jpg", 
+        "alt": "SOUTH PALMGROVE - Clubhouse Drop-off (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/south_palmgrove/artist_perspective/artist_4.jpg", 
+        "alt": "SOUTH PALMGROVE - Clubhouse Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/south_palmgrove/artist_perspective/artist_5.jpg", 
+        "alt": "SOUTH PALMGROVE - Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/south_palmgrove/artist_perspective/artist_6.jpg", 
+        "alt": "SOUTH PALMGROVE - Street View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/south_palmgrove/artist_perspective/artist_7.jpg", 
+        "alt": "SOUTH PALMGROVE - Clubhouse (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "nearby": [
+      "Nuvali (4.1 km)",
+      "Alabang (21.1 km)",
+      "Makati (41.5 km)",
+      "One and Two Evotech (4.5 km)",
+      "Toyota Motor Philippines Corp. (6.5 km)",
+      "Coca-Cola Femsa Philippines (7.9 km)",
+      "Laguna Technopark (2.3 km)",
+      "Lakeside Evozone South (5.2 km)",
+      "Sta. Rosa Commercial IT Park (7.7 km)",
+      "The Medical City - South Luzon (4.4 km)",
+      "Qualimed Hospital Sta. Rosa (5.2 km)"
+    ],
+    "amenities": [
+      "Function Room",
+      "Yoga deck",
+      "Basketball court",
+      "Clubhouse",
+      "Pocket Parks",
+      "Clubhouse",
+      "Fitness Trail",
+      "Lounging Mounds",
+      "Mango Grove",
+      "Multi-purpose Lawn",
+      "Outdoor Nooks",
+      "Pocket Parks"
+    ]
+  },
+  {
+    "href": "properties/sereneo_nuvali",
+    "name": "SERENEO NUVALI",
+    "location": "LAGUNA",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/sereneo/artist_perspective/artist_1.jpg",
+    "propertyType": "Residential Lots",
+    "price": "₱13.2M to ₱33.9M",
+    "endpoint": "/",
+    "blurb": "Sereneo continues Alveo’s story in NUVALI. This refreshing, 41-hectare residential community is enlivened by a dynamic core, where residents can flow with ease and find their center.",
+    "hero": "/images/properties/sereneo/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/sereneo/artist_perspective/artist_1.jpg", 
+        "alt": "SERENEO - Central Park (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sereneo/artist_perspective/artist_2.jpg", 
+        "alt": "SERENEO - Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sereneo/artist_perspective/artist_3.jpg", 
+        "alt": "SERENEO - Social Pool Pavillion (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sereneo/artist_perspective/artist_4.jpg", 
+        "alt": "SERENEO - Sereneo Pool and Social Pavillions (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sereneo/artist_perspective/artist_5.jpg", 
+        "alt": "SERENEO - Pool Pavillion Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sereneo/artist_perspective/artist_6.jpg", 
+        "alt": "SERENEO - Sereneo View from Special Lots (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "nearby": [
+      "Miriam College Nuvali (0.1 km)",
+      "Everest Academy Nuvali (0.9 km)",
+      "Xavier School Nuvali (4.4 km)",
+      "Chiang Kai Shek College - Southmont Campus (11.4 km)",
+      "De La Salle University - Laguna Campus (12.3 km)",
+      "St. Scholastica's College Westgrove (12.8 km)",
+      "The Beacon Academy, Inc. (13.1 km)",
+      "Don Bosco College, Canlubang (13.2 km)",
+      "Brent International School (17.9 km)",
+      "Ayala Malls Solenad (7.6 km)",
+      "S&R Membership Shopping - Nuvali (7.7 km)",
+      "Vista Mall Sta. Rosa (8.8 km)",
+      "Paseo de Santa Rosa (9.4 km)",
+      "Westborough Town Center (11.2 km)",
+      "St. John Bosco Parish (10.3 km)",
+      "St. Benedict Parish - Westgrove (12.6 km)",
+      "St. Francis of Assisi Parish (16.6 km)",
+      "Healthway Qualimed Hospital Sta. Rosa (7.4 km)",
+      "The Medical City South Luzon (11.0 km)",
+      "Seda Nuvali (8.1 km)",
+      "Canlubang Gold and Country Club (8.6 km)",
+      "South Forbes Golf Club (13.0 km)",
+      "Sta. Elena Gold and Country Estate (17.2 km)",
+      "One and Two Evotech (8.2 km)",
+      "Lakeside Evozone (8.4 km)",
+      "NUVALI Transport Terminal (8.5 km)",
+      "Laguna Technopark (11.8 km)",
+      "Toyota Motor Philippines Corp. (13.2 km)"
+    ],
+    "amenities": [
+      "Admin Office",
+      "Central Park",
+      "Clubhouse",
+      "Kid's Play Area",
+      "Linear Park",
+      "Lounge Pool",
+      "Admin Office",
+      "Central Park",
+      "Clubhouse",
+      "Grand Lawn",
+      "Jogging Path",
+      "Kid's Play Area",
+      "Kids’ Pool",
+      "Lap Pool",
+      "Multi-Function Board Room",
+      "Multi-Purpose Pocket Parks",
+      "Open Basketball Court"
+    ]
+  },
+  {
+    "href": "properties/parkford_suites_legazpi",
+    "name": "PARKFORD SUITES LEGAZPI",
+    "location": "MAKATI",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/parkford/artist_perspective/artist_1.jpg",
+    "propertyType": "Condo",
+    "price": "₱44.4M to ₱81M",
+    "endpoint": "/",
+    "blurb": "Parkford Suites Legazpi offers residences with a dynamic view of parks and the city. Linking home and community, leisure and work, health and well-being, it’s a contemporary address where natural and urban spaces meet.",
+    "hero": "/images/properties/parkford/artist_perspective/artist_1.jpg",
+    "floor_plan": [
+      {
+        "src": "/images/properties/parkford/floor_plans/floor_plan_2br.jpg", 
+        "alt": "2-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/parkford/floor_plans/floor_plan_3br.jpg", 
+        "alt": "3-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/parkford/floor_plans/floor_plan_bi_3br.jpg", 
+        "alt": "3-Bedroom Bi-Level Unit",
+        "title": "Floor Plan Blueprint"
+      }
+    ],
+    "artist_perspective": [
+      {
+        "src": "/images/properties/parkford/artist_perspective/artist_1.jpg", 
+        "alt": "PARKFORD SUITES LEGAZPI - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/parkford/artist_perspective/artist_2.jpg", 
+        "alt": "PARKFORD SUITES LEGAZPI - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/parkford/artist_perspective/artist_3.jpg", 
+        "alt": "PARKFORD SUITES LEGAZPI - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/parkford/artist_perspective/artist_4.jpg", 
+        "alt": "PARKFORD SUITES LEGAZPI - Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/parkford/artist_perspective/artist_5.jpg", 
+        "alt": "PARKFORD SUITES LEGAZPI - Main Lobby (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/parkford/artist_perspective/artist_6.jpg", 
+        "alt": "PARKFORD SUITES LEGAZPI - 3BR Living and Dining Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/parkford/artist_perspective/artist_7.jpg", 
+        "alt": "PARKFORD SUITES LEGAZPI - 2BR Master Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Complete kitchen system (countertop, cabinets, and sink)",
+      "Complete toilet fixtures (bathroom sink and faucet, toilet bowl, hand spray, shower set and facial mirror)",
+      "Shower enclosure (except for maid’s T&B)",
+      "Bedroom closet",
+      "Fire detection and alarm system",
+      "Audio guest annunciator",
+      "Provision for split-type air conditioning",
+      "Provision for telephone lines",
+      "Provision for CATV outlet",
+      "Provision for fiber-to-the-home",
+      "Provision for T&B multi-point water heater (except for maid’s T&B)"
+    ],
+    "nearby": [
+      "Greenbelt (1.1 km)",
+      "Glorietta (1.4 km)",
+      "Ayala Triangle Gardens (1.4 km)",
+      "Makati Sports Club (3.0 km)",
+      "Manila Polo Club (3.4 km)",
+      "Manila Golf Club and Country Club (3.3 km)",
+      "Asian Institute of Management (0.9 km)",
+      "DLSU Graduate School of Business (1.1 km)",
+      "Ateneo Graduate School of Business (4.1 km)",
+      "Makati Medical Center (1.1 km)"
+    ],
+    "amenities": [
+      "Function Room",
+      "Gym",
+      "Kiddie Pool",
+      "Shower room",
+      "Kid’s Play Area",
+      "Lap Pool"
+    ]
+  },
+  {
+    "href": "properties/park_east_place",
+    "name": "PARK EAST PLACE",
+    "location": "TAGUIG",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/park_east/artist_perspective/artist_1.jpg",
+    "propertyType": "Condo",
+    "price": "₱25.7M to ₱64.4M",
+    "endpoint": "/",
+    "blurb": "On the corner of 32nd Street and 9th Avenue, Alveo Land emerges with residences that are part of a thoughtfully planned nexus of retail, restaurant, cultural and work spaces shaping the vibrant diversity of the city. Park East Place invites you to enjoy a completely integrated urban lifestyle experience with its unrivaled connectivity and convenience.",
+    "hero": "/images/properties/park_east/artist_perspective/artist_1.jpg",
+    "floor_plan": [
+      {
+        "src": "/images/properties/park_east/floor_plans/floor_plan_1br_studio.png", 
+        "alt": "1BR Studio Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/park_east/floor_plans/floor_plan_1br.png", 
+        "alt": "1-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/park_east/floor_plans/floor_plan_2br.png", 
+        "alt": "2-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/park_east/floor_plans/floor_plan_3br.png", 
+        "alt": "3-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      }
+    ],
+    "artist_perspective": [
+      {
+        "src": "/images/properties/park_east/artist_perspective/artist_1.jpg", 
+        "alt": "PARK EAST PLACE - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/park_east/artist_perspective/artist_2.jpg", 
+        "alt": "PARK EAST PLACE - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/park_east/artist_perspective/artist_3.jpg", 
+        "alt": "PARK EAST PLACE - Main Lobby (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/park_east/artist_perspective/artist_4.jpg", 
+        "alt": "PARK EAST PLACE - Living, Dining, and Kitchen Areas (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/park_east/artist_perspective/artist_5.jpg", 
+        "alt": "PARK EAST PLACE - 2BR Primary Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Split-type air conditioning units (all bedrooms and living room)",
+      "Range hood",
+      "Multi-point water heater for all T&B (except Maid’s/Utility)",
+      "Complete Kohler toilet fixtures (bathroom sink, toilet bowl, shower set, facial mirror for Common T&B and Master T&B, towel rod, robe hook)",
+      "Complete kitchen system (countertop, cabinets and sink)",
+      "Shower enclosure (for Master T&B of 1BR and up only)",
+      "Bedroom closets",
+      "Fire detection and alarm system",
+      "Audio guest annunciator",
+      "Provision for telephone lines",
+      "Provision for CATV outlet",
+      "Provision for fiber-to-the-home"
+    ],
+    "nearby": [
+      "Ayala Center (3.9 km)",
+      "The Mind Museum (1.4 km)",
+      "Greenbelt (4.5 km)",
+      "Glorietta (4.0 km)",
+      "Market Market (0.75 km)",
+      "Bonifacio High Street (0.4 km)",
+      "British School Manila (0.6 km)",
+      "International School Manila (0.65 km)",
+      "Everest Academy (1.1 km)",
+      "University of the Philippines BGC Campus (0.75 km)",
+      "St. Luke's Medical Center BGC (0.85 km)",
+      "Makati Medical Center (5.2 km)"     
+    ],
+    "amenities": [
+      "Function Room",
+      "Gym",
+      "Kiddie Pool",
+      "Lounge Pool",
+      "25m Lap Pool",
+      "7th Floor Outdoor Lounge",
+      "7th Floor Residential Lounge",
+      "Ground and second level retail plaza",
+      "Ground Floor Residential Lounge",
+      "Indoor Play Area",
+      "Outdoor Lounge",
+      "Outdoor Play Area",
+      "Pavilion",
+      "Residential Drop-off Lounge"
+    ]
+  },
+  {
+    "href": "properties/tryne_enterprise_plaza",
+    "name": "TRYNE ENTERPRISE PLAZA",
+    "location": "TAGUIG",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/tryne/artist_perspective/artist_1.jpg",
+    "propertyType": "Offices",
+    "price": "₱21.8M to ₱84.9M",
+    "endpoint": "/",
+    "blurb": "Tryne Enterprise Plaza is a three-tower office-for-sale development in Arca South, a strategic location that cultivates a network of ideas and collaboration.",
+    "hero": "/images/properties/tryne/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/tryne/artist_perspective/artist_1.jpg", 
+        "alt": "TRYNE ENTERPRISE PLAZA - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/tryne/artist_perspective/artist_2.jpg", 
+        "alt": "TRYNE ENTERPRISE PLAZA - Single Unit Office (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/tryne/artist_perspective/artist_3.jpg", 
+        "alt": "TRYNE ENTERPRISE PLAZA - Quarter Unit Office (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/tryne/artist_perspective/artist_4.jpg", 
+        "alt": "TRYNE ENTERPRISE PLAZA - Single Unit Office (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Ground floor lobby with direct access to the courtyard",
+      "Allocated emergency load for office units in case of power outage",
+      "Heat and fire detection, alarm, and sprinkler system",
+      "Two (2) fire exits per office floor",
+      "24-hour building security and maintenance",
+      "CCTV cameras",
+      "Interior-designed lobbies",
+      "RFID for parking and common areas",
+      "Provision for building maintenance unit (Gondola/Davit System)"
+    ],
+    "nearby": [
+      "Bonifacio Global City (7.1 km)",
+      "Ayala Center (8.3 km)",
+      "Arca Mall (0.5 km)",
+      "Greenbelt (8.4 km)",
+      "Glorietta (7.8 km)",
+      "Market Market (6.7 km)",
+      "Bonifacio High Street (7.2 km)",
+      "The Abba's Orchard School (4.5 km)",
+      "St. Luke's Medical Center BGC (8.2 km)",
+      "Makati Medical Center (8.6 km)"
+    ],
+    "amenities": [
+      "24-hour building security and maintenance",
+      "Allocated emergency load for office units in case of power outage",
+      "CCTV cameras",
+      "Ground floor lobby with direct access to the courtyard",
+      "Heat and fire detection",
+      "Interior-designed lobbies",
+      "Provision for building maintenance unit (Gondola/Davit System)",
+      "RFID for parking and common areas",
+      "Two (2) fire exits per office floor"
+    ]
+  },
+  {
+    "href": "properties/stiles_enterprise_plaza",
+    "name": "STILES ENTERPRISE PLAZA",
+    "location": "MAKATI",
+    "sellingStatus": "Ready for Occupancy",
+    "imageSrc": "/images/properties/stiles/artist_perspective/artist_1.jpg",
+    "propertyType": "Offices",
+    "price": "",
+    "endpoint": "/",
+    "blurb": "Stiles Enterprise Plaza is an office-for-sale development emerging from a prime address in Makati. With contemporary work environments master planned to provide dynamic spaces for ownership, it harnesses potential for expansion and investments at the core of possibilities.",
+    "hero": "/images/properties/stiles/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/stiles/artist_perspective/artist_1.jpg", 
+        "alt": "STILES ENTERPRISE PLAZA - Facade",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/stiles/artist_perspective/artist_2.jpg", 
+        "alt": "STILES ENTERPRISE PLAZA - Plaza Lobby (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/stiles/artist_perspective/artist_3.jpg", 
+        "alt": "STILES ENTERPRISE PLAZA - Board Room (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/stiles/artist_perspective/artist_4.jpg", 
+        "alt": "STILES ENTERPRISE PLAZA - Lounge Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "nearby": [
+      "Makati CBD (1.6 km)",
+      "Bonifacio Global City (4.3 km)",
+      "Ortigas Center (4.5 km)",
+      "Greenbelt (2.3 km)",
+      "Glorietta (2.7 km)",
+      "Ayala Triangle Gardens (2.0 km)",
+      "Makati Sports Club (1.6 km)",
+      "Manila Polo Club (4.0 km)",
+      "Manila Golf and Country Club (3.4 km)",
+      "Asian Institute of Management (2.5 km)",
+      "DLSU Graduate School of Business (1.5 km)",
+      "Ateneo Graduate School of Business (2.7 km)",
+      "Makati Medical Center (1.8 km)"
+    ]
+  },
+  {
+    "href": "properties/mergent_residences",
+    "name": "MERGENT RESIDENCES",
+    "location": "MAKATI",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/mergent/artist_perspective/artist_1.jpg",
+    "propertyType": "Condo",
+    "price": "₱10.4 to ₱35M",
+    "endpoint": "/",
+    "blurb": "As Alveo Land’s first high-rise condominium in Poblacion, Mergent Residences is a choice address for the creative, the like-minded, and the entrepreneurial. Enjoy contemporary spaces that connect, linger, and uncover new experiences right at your door.",
+    "hero": "/images/properties/mergent/artist_perspective/artist_1.jpg",
+    "floor_plan": [
+      {
+        "src": "/images/properties/mergent/floor_plans/floor_plan_studio.jpg", 
+        "alt": "Studio Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/mergent/floor_plans/floor_plan_1br.jpg", 
+        "alt": "1-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/mergent/floor_plans/floor_plan_2br.jpg", 
+        "alt": "2-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      }
+    ],
+    "artist_perspective": [
+      {
+        "src": "/images/properties/mergent/artist_perspective/artist_1.jpg", 
+        "alt": "MERGENT RESIDENCES - Building Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/mergent/artist_perspective/artist_2.jpg", 
+        "alt": "MERGENT RESIDENCES - Lobby (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/mergent/artist_perspective/artist_3.jpg", 
+        "alt": "MERGENT RESIDENCES - Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/mergent/artist_perspective/artist_4.jpg", 
+        "alt": "MERGENT RESIDENCES - Lounge (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/mergent/artist_perspective/artist_5.jpg", 
+        "alt": "MERGENT RESIDENCES - Lounge (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/mergent/artist_perspective/artist_6.jpg", 
+        "alt": "MERGENT RESIDENCES - Studio Unit (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Complete kitchen system (kitchen sink, faucet, countertop, & kitchen cabinets)",
+      "Complete toilet fixtures (bathroom sink, faucet, toilet bowl, hygienic spray, shower set, toilet accessories, and facial mirror)",
+      "Shower enclosure (for Master T&B of 2BR only)",
+      "Bedroom closets (except maid’s room)",
+      "Fire Detection and Alarm System",
+      "Audio guest annunciator",
+      "Provision for split-type air conditioning",
+      "Provision for telephone lines",
+      "Provision for CATV outlet",
+      "Provision for fiber-to-the-home",
+      "Provision for T&B water heater (except Maid’s T&B)"
+    ],
+    "nearby": [
+      "Glorietta (2.0 km)",
+      "Greenbelt (2.1 km)",
+      "Makati Museum (0.5 km)",
+      "RCBC Yuchengco Museum (2.3 km)",
+      "Ayala Museum (1.7 km)",
+      "Asian Institute of Management (2.2 km)",
+      "DLSU Graduate School of Business (1.9 km)",
+      "Ateneo Graduate School of Business (1.1 km)",
+      "Makati Medical Center (3.1 km)"
+    ],
+    "amenities": [
+      "Function Room",
+      "Gym",
+      "Kiddie Pool",
+      "Shower room",
+      "Adult Swimming Pool",
+      "Covered Lounge Area"
+    ]
+  },
+  {
+    "href": "properties/caleia_vermosa",
+    "name": "CALEIA VERMOSA",
+    "location": "CAVITE",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/caleia/artist_perspective/artist_1.jpg",
+    "propertyType": "Residential Lots",
+    "price": "₱10.7M to ₱34.6M",
+    "endpoint": "/",
+    "blurb": "Awaken to a natural haven of calm and well-being at Alveo’s emerging neighborhood, Caleia. Thriving within the modern suburban community of Vermosa, discover a home reinvigorating vast opportunities for living.",
+    "hero": "/images/properties/caleia/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/caleia/artist_perspective/artist_1.jpg", 
+        "alt": "CALEIA - Central Park (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/caleia/artist_perspective/artist_2.jpg", 
+        "alt": "CALEIA - Zen Courtyard (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/caleia/artist_perspective/artist_3.jpg", 
+        "alt": "CALEIA - Swimming Pool (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "nearby": [
+      "Central Park",
+      "Linear Park",
+      "Gardenway",
+      "Picnic Grove",
+      "Pool Veranda",
+      "Residents' Lounge",
+      "Social Hall",
+      "Zen Courtyard"
+    ],
+    "amenities": [
+      "Vermosa Midtown",
+      "De La Salle Santiago Zobel School – Vermosa Campus",
+      "Ayala Malls Vermosa",
+      "Shops at Vermosa",
+      "Landers Vermosa",
+      "San Sebastian Parish Church",
+      "Red Cross Cavite Chapter (Blood Center)",
+      "Ayala Vermosa Sports Hub",
+      "Athlete's House"
+    ]
+  },
+  {
+    "href": "properties/evo_city_commercial",
+    "name": "EVO CITY COMMERCIAL",
+    "location": "CAVITE",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/evo_city/artist_perspective/artist_1.jpg",
+    "propertyType": "Commercial Lots",
+    "price": "₱98.2M to ₱178.8M",
+    "endpoint": "/",
+    "blurb": "Evo City, the first of its kind in Kawit, sets the standard for modern central business districts with forward-thinking urban design, efficient systems, and enhanced opportunities for living and investment. As a thriving hub for both emerging and established businesses, Evo City West District offers 31 commercial lots spread across seven blocks. Strategically positioned near Evo City Boulevard, across the Visitor Center and Church, and adjacent to The Residences at Evo City, these spaces are ideally located at the estate's core. Similarly, Evo City South District introduces 18 prime lots in its initial phase. Situated along the Daang-Hari Link Road and Innovation Drive, and neighboring The Residences at Evo City, the South District serves as a dynamic center for modern commercial ventures.",
+    "hero": "/images/properties/evo_city/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_1.jpg", 
+        "alt": "EVO CITY - Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_2.jpg", 
+        "alt": "EVO CITY - Whole Development Aerial (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_3.jpg", 
+        "alt": "EVO CITY - Retail Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_4.jpg", 
+        "alt": "EVO CITY - Retail Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_5.jpg", 
+        "alt": "EVO CITY - Retail Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_6.jpg", 
+        "alt": "EVO CITY - Retail Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_7.jpg", 
+        "alt": "EVO CITY - Retail Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/evo_city/artist_perspective/artist_8.jpg", 
+        "alt": "EVO CITY - Retail Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "nearby": [
+      "MCX (20 km)",
+      "EDSA (Ayala Station) (23 km)",
+      "Alabang (22 km)",
+      "Bonifacio Global City (30 km)"
+    ]
+  },
+  {
+    "href": "properties/versala_alviera",
+    "name": "VERSALA ALVIERA",
+    "location": "PAMPANGA",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/versala/artist_perspective/artist_1.jpg",
+    "propertyType": "Residential Lots",
+    "price": "₱8.8M to ₱29.8M",
+    "endpoint": "/",
+    "blurb": "Refreshed by a natural atmosphere teeming with life, Alveo’s Versala is a 32-hectare residential neighborhood located at Alviera East. With nature as everyday’s constant inside and outside your neighborhood, green open spaces create a natural extension of home and offer more room to connect and grow.",
+    "hero": "/images/properties/versala/artist_perspective/artist_1.jpg",
+    "artist_perspective": [
+      {
+        "src": "/images/properties/versala/artist_perspective/artist_1.jpg", 
+        "alt": "VERSALA ALVIERA - Rain Garden (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/versala/artist_perspective/artist_2.jpg", 
+        "alt": "VERSALA ALVIERA - Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/versala/artist_perspective/artist_3.jpg", 
+        "alt": "VERSALA ALVIERA - Entrance (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/versala/artist_perspective/artist_4.jpg", 
+        "alt": "VERSALA ALVIERA - Swimming Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/versala/artist_perspective/artist_5.jpg", 
+        "alt": "VERSALA ALVIERA - Basketball Court (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "nearby": [
+      "Clark (12 km)",
+      "Angeles City (17 km)",
+      "Subic (34 km)",
+      "QC (98 km)",
+      "Alviera Greenbelt (Ongoing development)",
+      "Sandbox (2.7 km)",
+      "Alviera Country Club (2.9 km)",
+      "La Salle Botanical Gardens",
+      "Holy Angel University (Ongoing development) (15.9 km)",
+      "Miriam College (Ongoing development) (3.2 km)",
+      "Jose S. Lapid District Hospital (9.1 km)"
+    ],
+    "amenities": [
+      "Boardroom and Admin Office",
+      "Function Room",
+      "Basketball court",
+      "Clubhouse",
+      "Jogging path",
+      "Kid's Play Area",
+      "Open Field",
+      "Rain Garden",
+      "Swimming Pool",
+      "Central Amenity Park",
+      "Clubhouse",
+      "Jogging Path",
+      "Kid's Play Area"
+    ]
+  },
+  {
+    "href": "properties/lattice_at_parklinks",
+    "name": "THE LATTICE AT PARKLINKS",
+    "location": "PASIG",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/lattice/artist_perspective/artist_1.jpg",
+    "propertyType": "Condo",
+    "price": "₱10.9M to ₱98.1M",
+    "endpoint": "/",
+    "blurb": "Offering a home linked to life, The Lattice is a high-rise condominium that envelops you in refreshing living spaces within the green and sustainable district of Parklinks.",
+    "hero": "/images/properties/lattice/artist_perspective/artist_1.jpg",
+    "floor_plan": [
+      {
+        "src": "/images/properties/lattice/floor_plans/floor_plan_studio.jpg", 
+        "alt": "Studio Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/lattice/floor_plans/floor_plan_1br.jpg", 
+        "alt": "1-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/lattice/floor_plans/floor_plan_2br.jpg", 
+        "alt": "2-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/lattice/floor_plans/floor_plan_3br.jpg", 
+        "alt": "3-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      }
+    ],
+    "artist_perspective": [
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_1.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_2.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - Lawn Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_3.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - Swimming Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_4.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - Function Room (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_5.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - STU Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_6.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - 1BR Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_7.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - 1BR Living and Dining Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_8.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - 2BR Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/lattice/artist_perspective/artist_9.jpg", 
+        "alt": "THE LATTICE AT PARKLINKS - 3BR Living and Dining Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Complete kitchen system (countertop, cabinets, and sink)",
+      "Complete toilet fixtures (bathroom sink, toilet bowl, shower set, plus facial mirror for master T&B only)",
+      "Shower enclosure (for master T&B of 1BR and up only)",
+      "Bedroom closet",
+      "Fire detection and alarm system",
+      "Audio guest annunciator",
+      "Provision for WAC and/or split-type air conditioning",
+      "Provision for telephone line",
+      "Provision for CATV outlet",
+      "Provision for fiber-to-the-home",
+      "Provision for T&B multi-point water heater (except for maid’s T&B)"
+    ],
+    "nearby": [
+      "Ortigas Center (4.0 km)",
+      "Bonifacio Global City (9.4 km)",
+      "Vertis North (13.0 km)",
+      "Ortigas East (1.7 km)",
+      "Ayala Malls the 30th (4.0 km)",
+      "UP Town Center (6.2 km)",
+      "St. Paul College Pasig (4.0 km)",
+      "Ateneo de Manila University (5.0 km)",
+      "UP Diliman (9.5 km)",
+      "The Medical City (2.6 km)",
+      "Cardinal Santos Medical Center (6.0 km)",
+      "St. Luke's Medical Center BGC (8.0 km)"
+    ],
+    "amenities": [
+      "Function Room",
+      "Al Fresco Lounge",
+      "Great Lawn",
+      "Kid's Play Area",
+      "Lap/Lounge/Kid’s Pool",
+      "Multi-Purpose Lawn",
+      "Pool Deck",
+      "Viewing Deck",
+      "Kid's Play Area",
+      "Pool Deck"
+    ]
+  },
+  {
+    "href": "properties/sentrove_at_cloverleaf",
+    "name": "SENTROVE AT CLOVERLEAF",
+    "location": "QUEZON CITY",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/sentrove/artist_perspective/artist_1.jpg",
+    "propertyType": "Condo",
+    "price": "₱8.4M to ₱35.7M",
+    "endpoint": "/",
+    "blurb": "Sentrove radiates with a 43-storey residential community at the heart of the 11-hectare master planned Cloverleaf in QC. Presenting a seamless array of urban conveniences, this neighborhood keeps you close to your roots.",
+    "hero": "/images/properties/sentrove/artist_perspective/artist_1.jpg",
+    "floor_plan": [
+      {
+        "src": "/images/properties/sentrove/floor_plans/floor_plan_studio.jpg", 
+        "alt": "Studio Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/sentrove/floor_plans/floor_plan_1br.jpg", 
+        "alt": "1-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/sentrove/floor_plans/floor_plan_2br.jpg", 
+        "alt": "2-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/sentrove/floor_plans/floor_plan_3br.jpg", 
+        "alt": "3-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      }
+    ],
+    "artist_perspective": [
+      {
+        "src": "/images/properties/sentrove/artist_perspective/artist_1.jpg", 
+        "alt": "SENTROVE - Facade (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sentrove/artist_perspective/artist_2.jpg", 
+        "alt": "SENTROVE - Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sentrove/artist_perspective/artist_3.jpg", 
+        "alt": "SENTROVE - Function Room (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sentrove/artist_perspective/artist_4.jpg", 
+        "alt": "SENTROVE - Main Lobby (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sentrove/artist_perspective/artist_5.jpg", 
+        "alt": "SENTROVE - Studio Unit (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sentrove/artist_perspective/artist_6.jpg", 
+        "alt": "SENTROVE - 1BR Master Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/sentrove/artist_perspective/artist_7.jpg", 
+        "alt": "SENTROVE - 2BR Living and Dining Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Kitchen system (countertop, cabinets, and sink)",
+      "Toilet fixtures (bathroom sink, toilet bowl, shower set, and facial mirror except for maid’s T&B)",
+      "Shower enclosure (for master T&B of 1BR & up only)",
+      "Bedroom closet",
+      "Fire detection and alarm system",
+      "Audio guest annunciator",
+      "Provision for split-type and window-type air conditioning stub-out",
+      "Provision for telephone lines",
+      "Provision for fiber-to-the-home",
+      "Provision for T&B multi-point water heater (except for maid’s T&B)"
+    ],
+    "nearby": [
+      "Vertis North Corporate Center (5.1 km)",
+      "UP-Ayala Land Technohub (8.2 km)",
+      "Ayala Malls Cloverleaf (0.1 km)",
+      "TriNoma (4.6 km)",
+      "Ayala Malls Vertis North (5.2 km)",
+      "Veterans Memorial Golf Club (5.3 km)",
+      "Ninoy Aquino Parks and Wildlife Center (8.1 km)",
+      "Quezon Memorial Circle (7.7 km)",
+      "Manila Central University (2.7 km)",
+      "Grace Christian School (2.0 km)",
+      "Philippine Science High School (6.5 km)",
+      "University of Santo Tomas (6.2 km)",
+      "UP Diliman (8.8 km)",
+      "St. Luke’s Medical Center QC (8.2 km)",
+      "Veterans Memorial Medical Center (6.7 km)",
+      "Philippine Children’s Medical Center (6.0 km)"
+    ],
+    "amenities": [
+      "Boardroom",
+      "Function Room",
+      "Gym",
+      "Multi-Purpose Lawn",
+      "Viewing Deck",
+      "Lap Pool",
+      "Meditation garden",
+      "Play Area"
+    ]
+  },
+  {
+    "href": "properties/ametrine_portico",
+    "name": "THE AMETRINE AT PORTICO",
+    "location": "PASIG",
+    "sellingStatus": "Ready for Occupancy",
+    "imageSrc": "/images/properties/ametrine/artist_perspective/artist_1.jpg",
+    "propertyType": "Condo",
+    "price": "₱9.5M to ₱88.5M",
+    "blurb": "Portico offers a unique urban oasis, blending high-rise residences, charming brownstone-inspired townhouses, and lush green spaces. This mixed-use development provides a refreshing retreat in the heart of a vibrant central business district.",
+    "hero": "/images/properties/ametrine/artist_perspective/artist_1.jpg",
+    "floor_plan": [
+      {
+        "src": "/images/properties/ametrine/floor_plans/floor_plan_studio.jpg", 
+        "alt": "Studio Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/ametrine/floor_plans/floor_plan_1br.jpg", 
+        "alt": "1-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/ametrine/floor_plans/floor_plan_2br.jpg", 
+        "alt": "2-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/ametrine/floor_plans/floor_plan_3br.jpg", 
+        "alt": "3-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      }
+    ],
+    "artist_perspective": [
+      {
+        "src": "/images/properties/ametrine/artist_perspective/artist_1.jpg", 
+        "alt": "PORTICO - District Aerial View (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/ametrine/artist_perspective/artist_2.jpg", 
+        "alt": "PORTICO - Pool Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/ametrine/artist_perspective/artist_3.jpg", 
+        "alt": "PORTICO - Multipurpose Court (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Complete kitchen system (countertop, cabinets, and sink)",
+      "Complete toilet fixtures (bathroom sink, toilet bowl, shower set, and facial mirror)",
+      "Shower enclosure (for Master T&B of 1BR and up only)",
+      "Bedroom closet",
+      "Fire detection and alarm system",
+      "Audio guest annunciator",
+      "Provision for split-type air conditioning stub-out",
+      "Provision for telephone lines",
+      "Provision for CATV outlet",
+      "Provision for fiber-to-the-home",
+      "Provision for T&B multi-point water heater (except for Maid’s T&B)"
+    ],
+    "nearby": [
+      "Vermosa Midtown",
+      "De La Salle Santiago Zobel School – Vermosa Campus",
+      "Ayala Malls Vermosa",
+      "Shops at Vermosa",
+      "Landers Vermosa",
+      "San Sebastian Parish Church",
+      "Red Cross Cavite Chapter (Blood Center)",
+      "Ayala Vermosa Sports Hub",
+      "Athlete's House"
+    ],
+    "amenities": [
+      "Function Room",
+      "Gym",
+      "Jogging Path",
+      "Swimming Pool",
+      "Courtyards",
+      "Garbage Holding Area",
+      "Maintenance and Janitor Rooms",
+      "Residential Administration Office",
+      "Security and Fire Command Center Rooms"
+    ],
+    "endpoint": "/"
+  },
+  {
+    "href": "properties/orean_residences_vertis_north",
+    "name": "OREAN RESIDENCES AT VERTIS NORTH",
+    "location": "QUEZON CITY",
+    "sellingStatus": "Pre-Selling",
+    "imageSrc": "/images/properties/orean/artist_perspective/artist_1.png",
+    "propertyType": "Condo",
+    "price": "₱12.4M to ₱63.6M",
+    "endpoint": "/",
+    "blurb": "An extraordinary, standalone tower at the heart of Vertis North, this distinct address elevates everyday experiences with seamless lifestyles that flow within a vibrant community.",
+    "hero": "/images/properties/orean/artist_perspective/artist_1.png",
+    "floor_plan": [
+      {
+        "src": "/images/properties/orean/floor_plans/floor_plan_studio.png", 
+        "alt": "Studio Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/orean/floor_plans/floor_plan_1br.png", 
+        "alt": "1-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/orean/floor_plans/floor_plan_2br.png", 
+        "alt": "2-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      },
+      {
+        "src": "/images/properties/orean/floor_plans/floor_plan_3br.png", 
+        "alt": "3-Bedroom Unit",
+        "title": "Floor Plan Blueprint"
+      }
+    ],
+    "artist_perspective": [
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_1.png", 
+        "alt": "OREAN RESIDENCES (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_2.png", 
+        "alt": "OREAN RESIDENCES - Lobby (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_3.png", 
+        "alt": "OREAN RESIDENCES - Residential Lounge (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_4.png", 
+        "alt": "OREAN RESIDENCES - Residential Lounge (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_5.png", 
+        "alt": "OREAN RESIDENCES - Residential Lounge (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_6.png", 
+        "alt": "OREAN RESIDENCES - 1BR Primary Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_7.png", 
+        "alt": "OREAN RESIDENCES - 2BR Living Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_8.png", 
+        "alt": "OREAN RESIDENCES - 2BR Primary Bedroom (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      },
+      {
+        "src": "/images/properties/orean/artist_perspective/artist_9.png", 
+        "alt": "OREAN RESIDENCES - 2BR Living and Dining Area (Artist's Perspective)",
+        "title": "Artistic Perspective of the Property"
+      }
+    ],
+    "features": [
+      "Split-type air conditioning units (all bedrooms and living room)",
+      "Complete kitchen system (countertop, cabinets and sink)",
+      "Range hood",
+      "Complete toilet fixtures (bathroom sink, toilet bowl, shower set, facial mirror for Primary T&B)",
+      "Shower enclosure (for Primary T&B of 1BR and up only)",
+      "Water heater for all T&B (except Utility)",
+      "Bedroom closets",
+      "Fire detection and alarm system",
+      "Audio guest annunciator",
+      "Provision for telephone lines"
+    ],
+    "nearby": [
+      "Ayala Malls Vertis North (0.9km)",
+      "TriNoma Mall (1.1km)",
+      "SM North EDSA (1.4km)",
+      "Centris Station Mall (1.9km)",
+      "Philippine Science Highschool (1.1km)",
+      "Claret School of Quezon City (3.0km)",
+      "Veterans Memorial Medical Center (0.75km)",
+      "Philippine Children's Medical Center (1.2km)",
+      "Lung Center of the Philippines (2.0km)",
+      "East Avenue Medical Center (2.1km)",
+      "National Kidney and Transplant Institute (2.2km)",
+      "Philippine Heart Center (2.3km)",
+      "Veterans Memorial Golf Club (1.1km)",
+      "Ninoy Aquino Parks and Wildlife Center (1.5km)",
+      "Quezon Memorial Circle (2.3km)"
+    ],
+    "amenities": [  
+      "Function Room",
+      "Gym",
+      "Social Spaces",
+      "Swimming Pool",
+      "Indoor Play Area",
+      "Outdoor Lounge",
+      "Outdoor Play Area",
+      "Residential Lounge",
+      "Veranda",
+      "Yoga/Dance Studio"
+    ]
+  }
+]
