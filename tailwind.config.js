@@ -24,7 +24,9 @@ export default {
       colors: {
         alveoblue: '#002B47',
         alveogray: '#F7F7F7',
-        lightblack: '#040406'
+        lightblack: '#040406',
+        darkgray: '#282F3B',
+        offwhite: '#F0F3F9'
       },
       fontFamily: {
         khula: 'Khula, sans-serif',
