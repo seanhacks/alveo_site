@@ -1,5 +1,6 @@
 <script>
   import ContactUs from '$lib/components/ContactUs.svelte';
+  import ContactForm from '$lib/components/ContactForm.svelte';
 </script>
 
 <!-- Hero Section -->
@@ -17,3 +18,7 @@
 </div>
 
 <ContactUs />
+
+<div class="mx-auto max-w-[600px]">
+  <ContactForm />
+</div>
