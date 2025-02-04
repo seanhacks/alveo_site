@@ -1,6 +1,7 @@
 <script>
   import ContactUs from '$lib/components/ContactUs.svelte';
   import ContactForm from '$lib/components/ContactForm.svelte';
+  import SellerProfile from '$lib/components/SellerProfile.svelte';
 </script>
 
 <!-- Hero Section -->
@@ -22,3 +23,11 @@
 <div class="mx-auto max-w-[600px]">
   <ContactForm />
 </div>
+
+<SellerProfile
+  image_src="/images/placeholder.png"
+  name="MAUIE"
+  role="Sales Manager"
+  prc_lic_num="17886786"
+  dhsud_lic_num="04159464"
+/>
