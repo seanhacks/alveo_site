@@ -12,8 +12,6 @@
   console.log(images_floor_plans);
   console.log(images);
   property.sellingStatus = property.sellingStatus.toUpperCase();
-
-  //TODO: NEED TO ALTERNATE THE BG COLOURS FROM WHITE TO GRAY AND SO ON. IDK HOW TO DO THIS YET
 </script>
 
 <!-- Hero Section -->
@@ -52,7 +50,7 @@
 <!-- MAP EMBED -->
 {#if property.coordinates !== undefined}
   <div class="w-full border-b-2 border-gray-200">
-    <div class="mx-auto flex max-w-[1140px] flex-col bg-white px-4 py-5 font-inter text-alveoblue">
+    <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-alveoblue">
       <h1 class="text-xl">PROPERTY LOCATION</h1>
       <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
         <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
@@ -68,7 +66,7 @@
 
 <!-- Nearby Locations -->
 {#if property.nearby !== undefined}
-  <div class="w-full border-b-2 border-gray-200 bg-alveogray">
+  <div class="w-full border-b-2 border-gray-200">
     <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-alveoblue">
       <h1 class="text-xl">NEARBY LOCATIONS</h1>
       <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
@@ -109,7 +107,7 @@
 
 <!-- FLOOR PLANS -->
 {#if floor_plan_image !== undefined}
-  <div class="w-full border-b-2 border-gray-200 bg-alveogray">
+  <div class="w-full border-b-2 border-gray-200">
     <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-black">
       <h1 class="text-xl">FLOOR PLANS</h1>
       <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
@@ -137,37 +135,39 @@
 
 <!-- Features and Ammenities -->
 {#if property.features !== undefined || property.amenities !== undefined}
-  <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter">
-    <h1 class="text-xl">PROPERTY INFORMATION</h1>
-    <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
-      <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
-    </svg>
+  <div class="w-full border-b-2 border-gray-200">
+    <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter">
+      <h1 class="text-xl">PROPERTY INFORMATION</h1>
+      <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
+        <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
+      </svg>
 
-    {#if property.features !== undefined}
-      <Accordion class="w-full" flush>
-        <AccordionItem>
-          <span slot="header">Features</span>
+      {#if property.features !== undefined}
+        <Accordion class="w-full" flush>
+          <AccordionItem>
+            <span slot="header">Features</span>
 
-          <ul class="list-disc pl-2">
-            {#each property.features as features}
-              <li class="mb-2 pl-1 text-xs text-slate-600 sm:text-sm">{features}</li>
-            {/each}
-          </ul>
-        </AccordionItem>
-      </Accordion>
-    {/if}
-    {#if property.amenities !== undefined}
-      <Accordion class="w-ull" flush>
-        <AccordionItem>
-          <span slot="header">Amenities</span>
+            <ul class="list-disc pl-2">
+              {#each property.features as features}
+                <li class="mb-2 pl-1 text-xs text-slate-600 sm:text-sm">{features}</li>
+              {/each}
+            </ul>
+          </AccordionItem>
+        </Accordion>
+      {/if}
+      {#if property.amenities !== undefined}
+        <Accordion class="w-ull" flush>
+          <AccordionItem>
+            <span slot="header">Amenities</span>
 
-          <ul class="list-disc pl-2">
-            {#each property.amenities as amenities}
-              <li class="mb-2 pl-1 text-xs text-slate-600 sm:text-sm">{amenities}</li>
-            {/each}
-          </ul>
-        </AccordionItem>
-      </Accordion>
-    {/if}
+            <ul class="list-disc pl-2">
+              {#each property.amenities as amenities}
+                <li class="mb-2 pl-1 text-xs text-slate-600 sm:text-sm">{amenities}</li>
+              {/each}
+            </ul>
+          </AccordionItem>
+        </Accordion>
+      {/if}
+    </div>
   </div>
 {/if}
