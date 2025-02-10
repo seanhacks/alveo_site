@@ -683,7 +683,11 @@
       "Red Cross Cavite Chapter (Blood Center)",
       "Ayala Vermosa Sports Hub",
       "Athlete's House"
-    ]
+    ],
+    "coordinates": {
+      "long": 120.95284760101322,
+      "lat": 14.396140043537098 
+    }
   },
   {
     "href": "properties/evo_city_commercial",

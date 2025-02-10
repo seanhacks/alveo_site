@@ -1,6 +1,7 @@
 <script>
   import { AccordionItem, Accordion } from 'flowbite-svelte';
   import { Carousel } from 'flowbite-svelte';
+  import PropertyMap from '$lib/components/PropertyMap.svelte';
   export let data;
 
   let property = data.props.property;
@@ -38,11 +39,24 @@
 <!-- BLURB -->
 {#if property.nearby !== undefined}
   <div class="w-full border-b-2 border-gray-200">
-    <div class="mx-auto flex max-w-[1140px] flex-col bg-white px-4 py-5 font-inter text-black">
+    <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-black">
       <h1 class="mb-2 text-xl text-alveoblue">
         {property.sellingStatus} LOTS IN {property.location}
       </h1>
       <p class="text-sm text-slate-600">{property.blurb}</p>
+    </div>
+  </div>
+{/if}
+
+<!-- MAP EMBED -->
+{#if property.coordinates !== undefined}
+  <div class="w-full border-b-2 border-gray-200">
+    <div class="mx-auto flex max-w-[1140px] flex-col bg-white px-4 py-5 font-inter text-alveoblue">
+      <h1 class="text-xl">PROPERTY LOCATION</h1>
+      <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
+        <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
+      </svg>
+      <PropertyMap long={property.coordinates.long} lat={property.coordinates.lat} />
     </div>
   </div>
 {/if}
