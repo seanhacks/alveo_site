@@ -12,7 +12,8 @@
   console.log(images_floor_plans);
   console.log(images);
   property.sellingStatus = property.sellingStatus.toUpperCase();
-  //console.log(property);
+
+  //TODO: NEED TO ALTERNATE THE BG COLOURS FROM WHITE TO GRAY AND SO ON. IDK HOW TO DO THIS YET
 </script>
 
 <!-- Hero Section -->
@@ -56,7 +57,11 @@
       <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
         <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
       </svg>
-      <PropertyMap long={property.coordinates.long} lat={property.coordinates.lat} />
+      <PropertyMap
+        maps={property.coordinates.maps}
+        long={property.coordinates.long}
+        lat={property.coordinates.lat}
+      />
     </div>
   </div>
 {/if}
