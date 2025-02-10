@@ -50,7 +50,12 @@
       "Kid's Play Area",
       "Lap Pool",
       "Pocket Parks"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.0152324,
+      "lat": 14.2190404,
+      "maps": "Verdea+Southmont+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/south_palmgrove",
@@ -126,7 +131,12 @@
       "Multi-purpose Lawn",
       "Outdoor Nooks",
       "Pocket Parks"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.1992076,
+      "lat": 13.9725568,
+      "maps": "South+Palmgrove+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/sereneo_nuvali",
@@ -219,7 +229,12 @@
       "Multi-Function Board Room",
       "Multi-Purpose Pocket Parks",
       "Open Basketball Court"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.0679963,
+      "lat": 14.1758631,
+      "maps": "Sereneo+Nuvali+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/parkford_suites_legazpi",
@@ -318,7 +333,12 @@
       "Shower room",
       "Kid’s Play Area",
       "Lap Pool"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.016101,
+      "lat": 14.553715,
+      "maps": "Parkford+Suites+Legazpi+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/park_east_place",
@@ -423,7 +443,12 @@
       "Outdoor Play Area",
       "Pavilion",
       "Residential Drop-off Lounge"
-    ]
+    ], 
+    "coordinates": {
+      "long": 121.0519921,
+      "lat": 14.5534817,
+      "maps": "Park+East+Place+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/tryne_enterprise_plaza",
@@ -491,7 +516,12 @@
       "Provision for building maintenance unit (Gondola/Davit System)",
       "RFID for parking and common areas",
       "Two (2) fire exits per office floor"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.0426198,
+      "lat": 14.5034604,
+      "maps": "Tryne+Enterprise+Plaza+at+ARCA+South+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/stiles_enterprise_plaza",
@@ -540,7 +570,12 @@
       "DLSU Graduate School of Business (1.5 km)",
       "Ateneo Graduate School of Business (2.7 km)",
       "Makati Medical Center (1.8 km)"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.018052,
+      "lat": 14.572748,
+      "maps": "Stiles+Enterprise+Plaza+at+Circuit+Makati+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/mergent_residences",
@@ -633,7 +668,12 @@
       "Shower room",
       "Adult Swimming Pool",
       "Covered Lounge Area"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.0292711,
+      "lat": 14.5666523,
+      "maps": "Mergent+Residences+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/caleia_vermosa",
@@ -686,7 +726,8 @@
     ],
     "coordinates": {
       "long": 120.95284760101322,
-      "lat": 14.396140043537098 
+      "lat": 14.396140043537098,
+      "maps": "Caleia+Vermosa+by+Alveo+Land"
     }
   },
   {
@@ -747,7 +788,12 @@
       "EDSA (Ayala Station) (23 km)",
       "Alabang (22 km)",
       "Bonifacio Global City (30 km)"
-    ]
+    ],
+    "coordinates": {
+      "long": 120.8973575,
+      "lat": 14.4305215,
+      "maps": "Evo+City+by+Ayala+Land"
+    }
   },
   {
     "href": "properties/versala_alviera",
@@ -814,7 +860,12 @@
       "Clubhouse",
       "Jogging Path",
       "Kid's Play Area"
-    ]
+    ],
+    "coordinates": {
+      "long": 120.5254888,
+      "lat": 15.1150439,
+      "maps": "Versala+Alviera+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/lattice_at_parklinks",
@@ -934,7 +985,12 @@
       "Viewing Deck",
       "Kid's Play Area",
       "Pool Deck"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.0843165,
+      "lat": 14.5983022,
+      "maps": "The+Lattice+at+Parklinks+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/sentrove_at_cloverleaf",
@@ -1045,7 +1101,12 @@
       "Lap Pool",
       "Meditation garden",
       "Play Area"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.0018197,
+      "lat": 14.65502494,
+      "maps": "Sentrove+at+Cloverleaf+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/ametrine_portico",
@@ -1131,7 +1192,12 @@
       "Residential Administration Office",
       "Security and Fire Command Center Rooms"
     ],
-    "endpoint": "/"
+    "endpoint": "/",
+    "coordinates": {
+      "long": 121.0654341,
+      "lat": 14.5746295,
+      "maps": "Portico+by+Alveo+Land"
+    }
   },
   {
     "href": "properties/orean_residences_vertis_north",
@@ -1253,6 +1319,11 @@
       "Residential Lounge",
       "Veranda",
       "Yoga/Dance Studio"
-    ]
+    ],
+    "coordinates": {
+      "long": 121.039251,
+      "lat": 14.6483867,
+      "maps": "Orean+Place+at+Vertis+North+by+Alveo+Land"
+    }
   }
 ]

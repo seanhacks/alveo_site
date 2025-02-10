@@ -17,7 +17,7 @@
 
 <!-- Banner of Sales Details -->
 <div
-  class="bg-darkgray flex w-screen flex-col items-center justify-center font-inter text-xs text-white md:flex-row"
+  class="flex w-screen flex-col items-center justify-center bg-darkgray font-inter text-xs text-white md:flex-row"
 >
   <div class="my-1 mr-3 flex flex-row items-center">
     <img src="/images/svgs/email.svg" alt="email svg" class="mr-1 h-3 w-3 align-middle" />
@@ -50,7 +50,7 @@
 <!-- Footer -->
 <div class="w-screen bg-alveoblue py-5 font-inter text-slate-400">
   <div class="mx-auto flex max-w-[1140px] flex-col items-center justify-center">
-    <img src="images/alveo_logo.png" class="h-10 w-auto" alt="alveo logo" />
+    <img src="/images/alveo_logo.png" class="h-10 w-auto" alt="alveo logo" />
     <p class="my-2 text-center text-xs">
       DISCOVER A PLACE WHERE LIFE THRIVES At Alveo Land, we create dynamic communities, thoughtfully
       designed spaces, and innovative living environments. Each development is crafted to enrich

@@ -1,5 +1,5 @@
 <script>
-  let { lat, long } = $props();
+  let { lat, long, maps } = $props();
   import { Button } from 'flowbite-svelte';
 
   // constants for map embed
@@ -8,7 +8,7 @@
 
   // function to open location in google maps
   function openInGoogleMaps() {
-    const googleMapsUrl = `https://www.google.com/maps?q=${lat},${long}`;
+    const googleMapsUrl = `https://www.google.com/maps/search/${maps}`;
     window.open(googleMapsUrl, '_blank', 'noopener noreferrer');
   }
 </script>
