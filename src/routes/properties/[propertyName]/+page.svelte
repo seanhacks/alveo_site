@@ -12,6 +12,17 @@
   console.log(images_floor_plans);
   console.log(images);
   property.sellingStatus = property.sellingStatus.toUpperCase();
+
+  // for the image model popup for the floor plans
+  let showModal = false;
+
+  function openModal() {
+    showModal = true;
+  }
+
+  function closeModal() {
+    showModal = false;
+  }
 </script>
 
 <!-- Hero Section -->
@@ -39,7 +50,7 @@
 {#if property.nearby !== undefined}
   <div class="w-full border-b-2 border-gray-200">
     <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-black">
-      <h1 class="mb-2 text-xl text-alveoblue">
+      <h1 class="mb-2 text-xl">
         {property.sellingStatus} LOTS IN {property.location}
       </h1>
       <p class="text-sm text-slate-600">{property.blurb}</p>
@@ -50,7 +61,7 @@
 <!-- MAP EMBED -->
 {#if property.coordinates !== undefined}
   <div class="w-full border-b-2 border-gray-200">
-    <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-alveoblue">
+    <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-black">
       <h1 class="text-xl">PROPERTY LOCATION</h1>
       <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
         <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
@@ -67,14 +78,14 @@
 <!-- Nearby Locations -->
 {#if property.nearby !== undefined}
   <div class="w-full border-b-2 border-gray-200">
-    <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-alveoblue">
+    <div class="mx-auto flex max-w-[1140px] flex-col px-4 py-5 font-inter text-black">
       <h1 class="text-xl">NEARBY LOCATIONS</h1>
       <svg class="my-2" height="2" width="150" xmlns="http://www.w3.org/2000/svg">
         <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
       </svg>
       <ul class="grid list-disc grid-cols-1 gap-2 pl-2 sm:grid-cols-2 lg:grid-cols-3">
         {#each property.nearby as nearby}
-          <li class="pl-1 text-xs sm:text-sm">{nearby}</li>
+          <li class="pl-1 text-xs text-slate-600 sm:text-sm">{nearby}</li>
         {/each}
       </ul>
     </div>
@@ -95,6 +106,7 @@
       let:Controls
       class="w-full"
       on:change={({ detail }) => (artist_image = detail)}
+      on:click={() => openModal()}
     >
       <Controls />
       <Indicators />
@@ -114,21 +126,43 @@
         <line x1="0" y1="0" x2="150" y2="0" style="stroke:black;stroke-width:2" />
       </svg>
 
-      {#key images_floor_plans}
-        <Carousel
-          images={images_floor_plans}
-          let:Indicators
-          let:Controls
-          class="w-full"
-          on:change={({ detail }) => (floor_plan_image = detail)}
-        >
-          <Controls class="bg-alveoblue" />
-          <Indicators />
-        </Carousel>
-      {/key}
-      <p class="my-2 h-10 items-start rounded p-2 text-center font-inter text-xs sm:text-sm">
-        {floor_plan_image?.alt}
-      </p>
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2" role="list">
+        {#each images_floor_plans as image}
+          <div
+            class="cursor-pointer"
+            on:click={() => openModal(image, image.alt)}
+            role="button"
+            tabindex="0"
+            aria-label={image.alt}
+          >
+            <img src={image.src} alt={image.alt} class="h-auto w-full rounded" />
+            <p></p>
+          </div>
+        {/each}
+      </div>
+    </div>
+  </div>
+{/if}
+
+{#if showModal}
+  <div
+    class="fixed left-0 top-0 z-50 flex h-full w-full items-center justify-center bg-black/50"
+    role="button"
+    aria-labelledby="modal-title"
+    on:click|self={closeModal}
+  >
+    <div class="relative">
+      <img
+        src={floor_plan_image?.src}
+        alt={floor_plan_image?.alt}
+        class="max-h-screen max-w-full rounded"
+        id="modal-image"
+      />
+      <button
+        on:click={closeModal}
+        class="absolute right-4 top-4 rounded-full bg-white p-2"
+        aria-label="Close">&times;</button
+      >
     </div>
   </div>
 {/if}
